@@ -1,2 +1,0 @@
-# sxdTestDemo
-just a repository
